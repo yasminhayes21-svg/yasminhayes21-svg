@@ -4,6 +4,13 @@ I build the automations, AI workflows and internal tools that commercial and ope
 
 In my current role I run the company's tool stack and its automations on Power Automate, Zapier, HubSpot and BigQuery, and build small web apps with Claude Code where no tool fits. Tool and platform changes I led save about $116k a year.
 
+**Application portfolio management (APM)**
+
+- Application landscape analysis: a usage-and-cost audit of every tool in the stack, ending in a keep, replace or drop call per tool (application rationalisation).
+- Shadow IT: found a team running its own CRM inside a project-management tool next to the real CRM, with duplicate records and mismatched IDs. Made the cost case to the CEO and recommended decommissioning it.
+- Tech debt reduction: retiring duplicate systems, migrating the data, one source of truth per record.
+- Result: tool and platform changes that save about $116k a year.
+
 **Public work**
 
 | Repo | What it is |
